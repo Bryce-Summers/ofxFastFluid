@@ -1,0 +1,11 @@
+﻿  Fluid2D.cpp
+D:\GIT\of_v0.9.8_vs_release\of_v0.9.8_vs_release\libs\openFrameworks\math\ofMatrix4x4.h(320): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\GIT\of_v0.9.8_vs_release\of_v0.9.8_vs_release\libs\openFrameworks\math\ofMatrix4x4.h(325): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\GIT\of_v0.9.8_vs_release\of_v0.9.8_vs_release\libs\openFrameworks\math\ofMatrix4x4.h(969): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\GIT\of_v0.9.8_vs_release\of_v0.9.8_vs_release\libs\openFrameworks\math\ofMatrix4x4.h(970): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\GIT\of_v0.9.8_vs_release\of_v0.9.8_vs_release\libs\openFrameworks\math\ofMatrix4x4.h(971): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\GIT\of_v0.9.8_vs_release\of_v0.9.8_vs_release\libs\openFrameworks\math\ofMatrix4x4.h(972): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  ofxFastFluid.vcxproj -> D:\GIT\ofxFastFluid\bin\ofxFastFluid_debug.exe
+  ofxFastFluid.vcxproj -> bin\ofxFastFluid_debug.pdb (Full PDB)
+  
+  	                   9	D:\GIT\of_v0.9.8_vs_release\of_v0.9.8_vs_release\export\vs\x64\
